@@ -1,4 +1,6 @@
 This repository hosts latex source for math-intensive articles of my blog www.idmsj.wordpress.com
 
+The files can be compiled with pdflatex for PDF view; alternatively compiled into Html file to be pasted into WP using LaTeX2WP: http://lucatrevisan.wordpress.com/latex-to-wordpress/
+
 You are free to modify or adapt. If you find any problem, please email me
 sunjunus@gmail.com
